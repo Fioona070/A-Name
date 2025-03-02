@@ -4,5 +4,6 @@ img {
 body {
     text-align: center;
     font-family: 'Arial';
-    color:pink;
+    color:rgb(69, 124, 186);
+    background-color: cornsilk;
 }
